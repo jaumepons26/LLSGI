@@ -16,3 +16,13 @@ Una vegada fet el compta a GitHub he creat un repositori anomenat LMSGI i he puj
 **_L'enllaç del repositori es:_**
 
 [Git Hub LMSGI Jaume Pons](https://github.com/jaumepons26/LMSGI)
+
+Seguidament per completar el punt C, he entrat a la web https://raw.githack.com on he afegit un per un la url de cada arxiu pujat al repositivo.
+
+|URL del document                  :|
+|-----------------|-----------------|
+|URL in production|URL developer    |
+
+| Tables        | Cool  |
+| ------------- | -----:|
+| col 3 is      | $1600 |
