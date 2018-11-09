@@ -19,7 +19,7 @@ Una vegada fet el compta a GitHub he creat un repositori anomenat LMSGI i he puj
 
 Seguidament per completar el punt C, he entrat a la web https://raw.githack.com on he afegit una per una la url de cada arxiu pujat al repositori.
 
-Ejemple de com surt a la web de [rawgit](https://raw.githack.com) creant una taula:
+Exemple de com surt a la web de [rawgit](https://raw.githack.com) creant una taula:
 
 | URL del document |    |
 | ------------- | -----:|
